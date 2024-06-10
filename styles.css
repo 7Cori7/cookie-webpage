@@ -62,6 +62,8 @@ footer{
 
 .content{
     height: 50vh;
+    opacity: 0;
+    animation: fade-in 1s ease-in forwards;
 }
 
 .round-img{
